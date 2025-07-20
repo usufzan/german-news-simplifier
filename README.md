@@ -12,7 +12,7 @@ This Python script simplifies German news articles for A2-level language learner
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/german-news-simplifier.git](https://github.com/usufzan/german-news-simplifier.git)
+    git clone [https://github.com/usufzan/german-news-simplifier.git](https://github.com/usufzan/german-news-simplifier.git)
     cd german-news-simplifier
     ```
 
